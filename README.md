@@ -1,2 +1,2 @@
 # Gradient-Descent
-This gradient descent repository implements a basic graident descent algorithm.
+This repository implements a basic gradient descent algorithm.
