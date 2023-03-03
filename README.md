@@ -1,4 +1,5 @@
-Gradient Descent
+#Gradient Descent
+
 This repository implements a basic gradient descent algorithm.
 
 gradient_descent.py: Main file for calculating gradient descent and stochastic gradient descent
